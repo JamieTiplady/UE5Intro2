@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/jamiework/Documents/Masters/Games Programming/UnrealEngine/UE5Intro2/Intro2/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+			]
+		}
+	]
+}
