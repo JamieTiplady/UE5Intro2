@@ -5,7 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"/Users/jamiework/Documents/Masters/Games Programming/UnrealEngine/UE5Intro2/Intro2/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+				"/Users/jamiework/Documents/Masters/Games Programming/UnrealEngine/UE5Intro2/Intro2/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
+				"/Users/jamiework/Documents/Masters/Games Programming/UnrealEngine/UE5Intro2/Intro2/Content/Levels/Level001.umap",
+				"/Users/jamiework/Documents/Masters/Games Programming/UnrealEngine/UE5Intro2/Intro2/Content/Assets/FreeCuteTileset/BG3_TileSet.uasset",
+				"/Users/jamiework/Documents/Masters/Games Programming/UnrealEngine/UE5Intro2/Intro2/Content/Assets/FreeCuteTileset/Tileset_TileSet.uasset",
+				"/Users/jamiework/Documents/Masters/Games Programming/UnrealEngine/UE5Intro2/Intro2/Content/Assets/FreeCuteTileset/NewPaperTileMap.uasset",
+				"/Users/jamiework/Documents/Masters/Games Programming/UnrealEngine/UE5Intro2/Intro2/Content/Assets/FreeCuteTileset/BG2_TileSet.uasset",
+				"/Users/jamiework/Documents/Masters/Games Programming/UnrealEngine/UE5Intro2/Intro2/Content/Assets/FreeCuteTileset/BG1_TileSet.uasset",
+				"/Users/jamiework/Documents/Masters/Games Programming/UnrealEngine/UE5Intro2/Intro2/Content/Assets/free-pixel-art-tiny-hero-sprites/2_Owlet_Monster/Owlet_Idle.uasset",
+				"/Users/jamiework/Documents/Masters/Games Programming/UnrealEngine/UE5Intro2/Intro2/Content/Assets/FreeCuteTileset/Decors_TileSet.uasset"
 			]
 		}
 	]
