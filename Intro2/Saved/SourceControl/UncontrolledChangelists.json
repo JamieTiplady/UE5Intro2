@@ -11,7 +11,6 @@
 				"/Users/jamiework/Documents/Masters/Games Programming/UnrealEngine/UE5Intro2/Intro2/Content/Assets/FreeCuteTileset/Tileset_TileSet.uasset",
 				"/Users/jamiework/Documents/Masters/Games Programming/UnrealEngine/UE5Intro2/Intro2/Content/Assets/FreeCuteTileset/NewPaperTileMap.uasset",
 				"/Users/jamiework/Documents/Masters/Games Programming/UnrealEngine/UE5Intro2/Intro2/Content/Assets/FreeCuteTileset/BG2_TileSet.uasset",
-				"/Users/jamiework/Documents/Masters/Games Programming/UnrealEngine/UE5Intro2/Intro2/Content/Assets/FreeCuteTileset/BG1_TileSet.uasset",
 				"/Users/jamiework/Documents/Masters/Games Programming/UnrealEngine/UE5Intro2/Intro2/Content/Assets/free-pixel-art-tiny-hero-sprites/2_Owlet_Monster/Owlet_Idle.uasset",
 				"/Users/jamiework/Documents/Masters/Games Programming/UnrealEngine/UE5Intro2/Intro2/Content/Assets/FreeCuteTileset/Decors_TileSet.uasset",
 				"/Users/jamiework/Documents/Masters/Games Programming/UnrealEngine/UE5Intro2/Intro2/Content/Assets/FreeCuteTileset/BG1.uasset",
@@ -85,7 +84,9 @@
 				"/Users/jamiework/Documents/Masters/Games Programming/UnrealEngine/UE5Intro2/Intro2/Content/Assets/FreeCuteTileset/Tileset.uasset",
 				"/Users/jamiework/Documents/Masters/Games Programming/UnrealEngine/UE5Intro2/Intro2/Content/Assets/free-pixel-art-tiny-hero-sprites/3_Dude_Monster/Walk_Run_Push_Dust_6.uasset",
 				"/Users/jamiework/Documents/Masters/Games Programming/UnrealEngine/UE5Intro2/Intro2/Content/Assets/free-pixel-art-tiny-hero-sprites/2_Owlet_Monster/Walk_Run_Push_Dust_6.uasset",
-				"/Users/jamiework/Documents/Masters/Games Programming/UnrealEngine/UE5Intro2/Intro2/Content/Assets/free-pixel-art-tiny-hero-sprites/1_Pink_Monster/Walk_Run_Push_Dust_6.uasset"
+				"/Users/jamiework/Documents/Masters/Games Programming/UnrealEngine/UE5Intro2/Intro2/Content/Assets/free-pixel-art-tiny-hero-sprites/1_Pink_Monster/Walk_Run_Push_Dust_6.uasset",
+				"/Users/jamiework/Documents/Masters/Games Programming/UnrealEngine/UE5Intro2/Intro2/Content/Assets/free-pixel-art-tiny-hero-sprites/BP_PLayer.uasset",
+				"/Users/jamiework/Documents/Masters/Games Programming/UnrealEngine/UE5Intro2/Intro2/Content/Assets/FreeCuteTileset/BG1_TileSet.uasset"
 			]
 		}
 	]
